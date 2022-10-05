@@ -67,4 +67,5 @@
     <color name="color_distance_disable">#AB91F4</color>
     <color name="color_calo_disable">#FFC193</color>
     <color name="color_time_disable">#A5C9FB</color>
+    <color name="wild_sand">#F4F4F4</color>
 </resources>
