@@ -211,6 +211,7 @@
     <dimen name="px630">420.0dp</dimen>
     <dimen name="px640">426.67dp</dimen>
     <dimen name="px650">433.33dp</dimen>
+    <dimen name="px1200">800dp</dimen>
 
     <dimen name="radius_s">@dimen/px4</dimen>
     <dimen name="radius_m">@dimen/px8</dimen>
