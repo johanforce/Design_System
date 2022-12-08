@@ -211,4 +211,5 @@
     <dimen name="px630">1120.0dp</dimen>
     <dimen name="px640">1137.78dp</dimen>
     <dimen name="px650">1155.56dp</dimen>
+    <dimen name="px1200">2133.34dp</dimen>
 </resources>
